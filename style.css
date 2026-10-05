@@ -1,0 +1,33 @@
+
+body{
+    background-color: grey;
+    text-align: center;
+    color: white;
+    border:white solid 1px; 
+
+}
+
+img{
+     display: block; margin: 0 auto;
+}
+
+#aboutme{
+    color: white;
+    text-decoration: none;
+}
+
+#resume{
+    color: green;
+    
+}
+
+#footnav{
+
+text-align: left;
+
+}
+
+.footernav{
+    color: green;
+}
+
